@@ -46,7 +46,7 @@
     
   <img src="https://github.com/Alejandro2005DAM/Galactic-Rebelion/blob/main/Portada.png" alt="Preview Galactic-Rebelion"/></p>
 
-  <p>🌐 Proyecto API REST en Java - CRUD con conexión a MySQL y MongoDB (repositorio privado de prácticas).</p>
+<p>🌐 <a href="https://github.com/Alejandro2005DAM/Acceso_Datos" target="_blank">Proyecto API REST en Java - CRUD con conexión a MySQL y MongoDB</a>.</p>
 
   <p>📱 <a href="https://github.com/Alejandro2005DAM/Calculadora">Calculadora</a> - Calculadora simple como práctica en Javascript.<br/>
 <img src="https://raw.githubusercontent.com/Alejandro2005DAM/Calculadora/main/Calculator.png" alt="Preview Calculadora" width="300"/>
