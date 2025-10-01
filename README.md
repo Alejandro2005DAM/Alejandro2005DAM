@@ -3,8 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portafolio - Alejandro Palá Vera</title>
   <!-- Shields.io y badges -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    body {
+      background: linear-gradient(135deg, red, white);
+      font-family: Arial, sans-serif;
+    }
+    .project-preview img {
+      width: 300px;
+      border-radius: 10px;
+      margin: 10px;
+    }
+  </style>
 </head>
 <body>
 
@@ -12,7 +24,7 @@
 
 <h1 align="left">Hola 👋 Soy Alejandro Palá Vera</h1>
 
-> Desarrollador DAM Junior, apasionado por el backend, las bases de datos y el mundo de la programación.
+> Desarrollador DAM Junior, apasionado por el backend, las bases de datos y el mundo fintech.
 <br/>
 
 - 💻 Buscando mi primera oportunidad profesional en desarrollo backend o fintech.
@@ -36,31 +48,23 @@
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-
 </div>
 
 <br/>
 
 ## 🚀 Proyectos Realizados
-- 🎮 [Galactic-Rebelion](https://github.com/Mosquita2005/Galactic-Rebelion) - Videojuego en Unity con C#, gestión de sprites, escenas y lógica de juego.
-- 🌐 Proyecto API REST en Java - CRUD con conexión a MySQL y MongoDB (repositorio privado de prácticas).
-- 📱 [Calculadora](https://github.com/Alejandro2005DAM/Calculadora.git) - Calculadora simple como práctica en Javascript
+<div class="project-preview">
+  <p>🎮 <a href="https://github.com/Mosquita2005/Galactic-Rebelion">Galactic-Rebelion</a> - Videojuego en Unity con C#, gestión de sprites, escenas y lógica de juego.<br/>
+    
+  <img src="https://github.com/Alejandro2005DAM/Galactic-Rebelion/blob/main/Portada.png" alt="Preview Galactic-Rebelion"/></p>
+
+  <p>🌐 Proyecto API REST en Java - CRUD con conexión a MySQL y MongoDB (repositorio privado de prácticas).</p>
+
+  <p>📱 <a href="https://github.com/Alejandro2005DAM/Calculadora">Calculadora</a> - Calculadora simple como práctica en Javascript.<br/>
+<img src="https://raw.githubusercontent.com/Alejandro2005DAM/Calculadora/main/Calculator.png" alt="Preview Calculadora" width="300"/>
 
 <br/>
 
-## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mosquita2005&langs_count=8&show_icons=true&locale=es&layout=compact&theme=radical" alt="top-langs" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mosquita2005&show_icons=true&locale=es&theme=radical" alt="stats" width="410"/>
-</p>
-
-<br><br><br><br><br><br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mosquita2005&theme=radical&hide_border=false)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mosquita2005&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&title_color=FFFFFF)
-
-<br/>
 
 ## 🌐 Conéctate conmigo
 <p>
