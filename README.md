@@ -25,8 +25,33 @@
 
 ## 💻 Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,python,js,html,css,mysql,mongodb,unity,git,flutter" alt="My Skills" />
+  Frontend
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress" alt="Frontend Skills" />
 </p>
+<p align="center">
+  Backend
+  <img src="https://skillicons.dev/icons?i=php,python,java,nodejs,mysql,mongodb,sqlite" alt="Backend Skills" />
+</p>
+<p align="center">
+  IDE
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse" alt="Full Stack Tools" />
+</p>
+<p align="center">
+  Mobile
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Mobile Skills" />
+</p>
+<p align="center">
+  Videogames
+  <img src="https://skillicons.dev/icons?i=unity,cs" alt="Game Dev Skills" />
+</p>
+<p align="center">
+  Operating System
+  <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating Systems" />
+</p>
+
+
+
+
 
 ## 🚀 Proyectos Realizados
 <div class="project-preview">
