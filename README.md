@@ -24,28 +24,29 @@
 <br/>
 
 ## 💻 Tecnologías
+<h2 allign="center">Frontend</h2>
 <p align="center">
-  Frontend
+  
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress" alt="Frontend Skills" />
 </p>
+<h2 align="center">Backend</h2>
 <p align="center">
-  Backend
   <img src="https://skillicons.dev/icons?i=php,python,java,nodejs,mysql,mongodb,sqlite" alt="Backend Skills" />
 </p>
+<h2 align="center">IDE</h2>
 <p align="center">
-  IDE
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse" alt="Full Stack Tools" />
 </p>
+<h2 align="center">Mobile</h2>
 <p align="center">
-  Mobile
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Mobile Skills" />
 </p>
+<h2 align="center">Videogames</h2>
 <p align="center">
-  Videogames
   <img src="https://skillicons.dev/icons?i=unity,cs" alt="Game Dev Skills" />
 </p>
+<h2 align="center">Operating System</h2>
 <p align="center">
-  Operating System
   <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating Systems" />
 </p>
 
