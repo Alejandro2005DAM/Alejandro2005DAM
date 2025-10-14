@@ -27,7 +27,7 @@
 <h2 align="center">Frontend</h2>
 <p align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress,joomla" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress" alt="Frontend Skills" />
 </p>
 <h2 align="center">Backend</h2>
 <p align="center">
