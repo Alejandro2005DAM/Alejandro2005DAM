@@ -24,7 +24,7 @@
 <br/>
 
 ## 💻 Tecnologías
-<h2 allign="center">Frontend</h2>
+<h2 align="center">Frontend</h2>
 <p align="center">
   
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress" alt="Frontend Skills" />
