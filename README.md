@@ -16,7 +16,7 @@
 <br/>
 
 - 💻 Buscando mi primera oportunidad profesional en desarrollo backend o fintech.
-- 📚 Actualmente aprendiendo **Java, PHP, MySQL y APIs REST**.
+- 📚 Actualmente aprendiendo **JavaScript, React, Php y APIs REST**.
 - 📫 Contacto: **alejandropalavera7@gmail.com**
 - 🤝 Abierto a colaborar en proyectos interesantes.
 - ⚡ Fun fact: Siempre motivado a aprender nuevas tecnologías 🚀
