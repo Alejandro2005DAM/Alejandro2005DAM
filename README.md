@@ -31,7 +31,7 @@
 </p>
 <h2 align="center">Backend</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,java,nodejs,mysql,mongodb,sqlite" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=php,python,java,nodejs,mysql,mongodb,sqlite,postman" alt="Backend Skills" />
 </p>
 <h2 align="center">IDE</h2>
 <p align="center">
