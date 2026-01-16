@@ -56,26 +56,26 @@
 
 ## 🚀 Proyectos Realizados
 <div class="project-preview">
-  <p>🎮 <a href="https://github.com/Mosquita2005/Galactic-Rebelion">Galactic-Rebelion</a> - Videojuego en Unity con C#, gestión de sprites, escenas y lógica de juego.<br/>
+  <p align="center">🎮 <a href="https://github.com/Mosquita2005/Galactic-Rebelion">Galactic-Rebelion</a> - Videojuego en Unity con C#, gestión de sprites, escenas y lógica de juego.<br/>
     
-  <img src="https://github.com/Alejandro2005DAM/Galactic-Rebelion/blob/main/Portada.png" alt="Preview Galactic-Rebelion"/></p>
+  <img src="https://github.com/Alejandro2005DAM/Galactic-Rebelion/blob/main/Portada.png" alt="Preview Galactic-Rebelion"/>
 
-<p>🌐 <a href="https://github.com/Alejandro2005DAM/Acceso_Datos" target="_blank">Proyecto API REST en Java - CRUD con conexión a MySQL y MongoDB</a>.</p>
+<p align="center">🌐 <a href="https://github.com/Alejandro2005DAM/Acceso_Datos" target="_blank">Proyecto API REST en Java - CRUD con conexión a MySQL y MongoDB</a>.</p>
 
-  <p>📱 <a href="https://github.com/Alejandro2005DAM/Calculadora">Calculadora</a> - Calculadora simple como práctica en Javascript.<br/>
+  <p align="center">📱 <a href="https://github.com/Alejandro2005DAM/Calculadora">Calculadora</a> - Calculadora simple como práctica en Javascript.<br/>
 <img src="https://raw.githubusercontent.com/Alejandro2005DAM/Calculadora/main/Calculator.png" alt="Preview Calculadora" width="300"/>
 
- <p>🎮 <a href="https://github.com/Alejandro2005DAM/Climate_Website.git">Climate Wevsite</a> Web de clima que muestra todos los datos de temperatura en todas las ciudades del mundo<br/>
+ <p align="center">🎮 <a href="https://github.com/Alejandro2005DAM/Climate_Website.git">Climate Wevsite</a> Web de clima que muestra todos los datos de temperatura en todas las ciudades del mundo<br/>
    <img  src="https://github.com/Alejandro2005DAM/Climate_Website/blob/6f31f435866163a7796e690d4f2aefe591610ed0/images/climaportada.jpg" width="300"/> 
 <br/>
 
 
 ## 🌐 Conéctate conmigo
-<p>
-<a href="https://www.linkedin.com/in/alejandropalavera" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://wa.me/34675112468" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="whatsapp" height="30" width="40" style="fill:#25D366;"/></a>
-<a href="mailto:alejandropalavera7@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="gmail" height="30" width="40" /></a>
-<a href="https://github.com/Mosquita2005" target="blank"><img align="center" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/alejandropalavera" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" height="60" width="80" /></a>
+<a href="https://wa.me/34675112468" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="whatsapp" height="60" width="80" style="fill:#25D366;"/></a>
+<a href="mailto:alejandropalavera7@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="gmail" height="60" width="80" /></a>
+<a href="https://github.com/Mosquita2005" target="blank"><img align="center" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" height="60" width="80" /></a>
 </p>
 
 <br/>
