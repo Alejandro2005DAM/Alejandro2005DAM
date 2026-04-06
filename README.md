@@ -38,43 +38,59 @@
   <table>
     <tr>
       <td align="center">
-<img style="display: block; -webkit-user-select: none; margin: auto; border-radius: 20px;" width="180px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">        </br>
+<img style="display: block; -webkit-user-select: none; margin: auto; border-radius: 20px;" width="220px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">        </br>
         <b>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</b><br/>
         <i>Especializado en desarrollo y lógica de varios lenguajes y herramientas de trabajo</i> </br>
-        <small>Nota media : 7</small>
+        <small>Nota media : 7</small> </br>
+        <strong>Año(2023-2025)</strong>
       </td>
     </tr>  
     <tr>
       <td align="center">
         <b>Bachillerato de ciencias tecnológicas</b><br/>
+        <strong>Año(2021-2023)</strong>
       </td>
     </tr>
   </table>
 </div>
 
-## 🛠️ También
+## 💼 Experiencia Profesional
 
-<h3 align="center">Frontend</h3>
+<div align="left">
+  
+### 🌐 Desarrollador Web & Gestor de Contenidos 
+> **WordPress | Elementor | HTML/CSS | Canva**
+
+- 🛠️ **Desarrollo y mantenimiento** de sitios web en WordPress utilizando **Elementor**, optimizando la estructura y el diseño.
+- 🎨 **Personalización Frontend**: Ajuste de temas y plugins mediante **HTML y CSS** para garantizar una interfaz única y mejorar la experiencia de usuario (UX).
+- ⚙️ **Soporte Técnico**: Resolución de incidencias y adaptaciones técnicas en proyectos activos para asegurar su correcto funcionamiento.
+- 🎬 **Contenido Multimedia**: Creación y publicación de vídeos publicitarios y creatividades visuales diseñados con **Canva**.
+- 📊 **Análisis y Reporte**: Redacción de informes detallados de seguimiento sobre el **rendimiento y SEO** de las páginas de servicio.
+
+</div>
+## 🛠️ Tecnologías con las que he trabajado
+
+<h2 align="center">Frontend</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress" alt="Frontend Skills" />
 </p>
 
-<h3 align="center">Backend</h3>
+<h2 align="center">Backend</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,python,java,nodejs,mysql,mongodb,sqlite,postman" alt="Backend Skills" />
 </p>
 
-<h3 align="center">Herramientas & IDEs</h3>
+<h2 align="center">Herramientas & IDEs</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse" alt="Tools & IDEs" />
 </p>
 
-<h3 align="center">Mobile & Videojuegos</h3>
+<h2 align="center">Mobile & Videojuegos</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,unity,cs" alt="Mobile & Game Dev" />
 </p>
 
-<h3 align="center">Sistemas Operativos</h3>
+<h2 align="center">Sistemas Operativos</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating Systems" />
 </p>
@@ -161,6 +177,10 @@
     <img src="https://img.shields.io/badge/Hecho%20con-❤️-800020?style=flat-square" />
   </p>
   <img src="https://komarev.com/ghpvc/?username=Alejandro2005DAM&label=VISITANTES&color=800020&style=flat-square" alt="Contador" />
+
+</br>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRncTk3eGpubnVtODM1N2NvN3VzYmN6cm5va2E0N3BmZzIyNmgwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/otG5J7hZwTkQ4Pv6iO/giphy.gif">
+<!-- <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQwMHpzbWVxc3RvNThjemhxb21nZHkxaGw4amwyZ2Ixam05aXl0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif"> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:800020,100:ff69b4&height=180&section=footer&text=Gracias%20por%20tu%20visita&fontSize=50&fontColor=FF0000&animation=twinkling&fontAlignY=60&stroke=FF0000&strokeWidth=1" width="100%"/>
 <!-- <img style="display: block;-webkit-user-select: none;margin: auto" src="https://data.textstudio.com/output/sample/animated/6/7/6/7/gracias-27-17676.gif"> -->
 <!-- Footer -->
