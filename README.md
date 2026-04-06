@@ -15,9 +15,15 @@
 
 <picture><img align='left'  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture>
 <h2 align='left'>Sobre mí</h2>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<img align="right" width="200" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
-<br><br>
+<p>
+  ¡Hola! Soy <b>Alejandro Palá</b>, un desarrollador FullStack de 21 años con una vocación profunda por la tecnología. 
+  Desde que tuve mi primer contacto con un ordenador, supe que mi camino estaba en la informática; lo que empezó como una curiosidad se ha transformado en mi profesión y mi estilo de vida.
+</p>
+<p>
+  Mi objetivo es canalizar esa pasión en el desarrollo de soluciones digitales innovadoras, con un enfoque especial en el ecosistema <b>Fintech</b>. Me fascina cómo el código puede transformar los servicios financieros, haciéndolos más accesibles y eficientes. Soy un firme creyente del aprendizaje continuo y de que la mejor línea de código es la que aún está por escribirse. 🚀
+</p><br><br>
 
 
 - 🎯 Enfocado en **desarrollo FullStack** y el sector **fintech**
@@ -26,6 +32,25 @@
 - ⚡ Fun fact: Siempre motivado a aprender nuevas tecnologías y en aprendizaje contínuo 🚀
 
 ---
+## 🎓 Mis estudios
+
+<div>
+  <table>
+    <tr>
+      <td align="center">
+<img style="display: block; -webkit-user-select: none; margin: auto; border-radius: 20px;" width="180px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">        </br>
+        <b>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</b><br/>
+        <i>Especializado en desarrollo y lógica de varios lenguajes y herramientas de trabajo</i> </br>
+        <small>Nota media : 7</small>
+      </td>
+    </tr>  
+    <tr>
+      <td align="center">
+        <b>Bachillerato de ciencias tecnológicas</b><br/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ También
 
@@ -107,7 +132,7 @@
 ---
 
 ## 🌐 Conéctate conmigo
-
+<img width='200px' style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png">
 <div align="center">
   <a href="https://www.linkedin.com/in/alejandropalavera" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" />
@@ -137,6 +162,7 @@
   </p>
   <img src="https://komarev.com/ghpvc/?username=Alejandro2005DAM&label=VISITANTES&color=800020&style=flat-square" alt="Contador" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:800020,100:ff69b4&height=180&section=footer&text=Gracias%20por%20tu%20visita&fontSize=50&fontColor=FF0000&animation=twinkling&fontAlignY=60&stroke=FF0000&strokeWidth=1" width="100%"/>
+<!-- <img style="display: block;-webkit-user-select: none;margin: auto" src="https://data.textstudio.com/output/sample/animated/6/7/6/7/gracias-27-17676.gif"> -->
 <!-- Footer -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:0a2a4a,100:00d9ff&height=220&section=header&text=Alejandro%20Pal%C3%A1%20Vera&fontSize=52&fontColor=00d9ff&animation=twinkling&fontAlignY=40&desc=Backend%20Developer%20%C2%B7%20Fintech%20Enthusiast%20%C2%B7%20DAM%20Junior&descAlignY=58&descSize=18&descColor=ffffff&stroke=00d9ff&strokeWidth=2" width="100%"/> -->
 
