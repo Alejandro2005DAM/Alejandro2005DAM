@@ -13,7 +13,11 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+<picture><img align='left'  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture>
+<h2 align='left'>Sobre mí</h2>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 
 - 🎯 Enfocado en **desarrollo FullStack** y el sector **fintech**
@@ -65,17 +69,23 @@
 
 </div>
 
+<br/>
+
 ### 🎮 Galactic Rebellion
 > Videojuego en Unity con C#, gestión de sprites, escenas y lógica de juego.
 
-<img src="https://github.com/Alejandro2005DAM/Galactic-Rebelion/blob/main/Portada.png" alt="Galactic Rebellion Preview" width="600" style="border-radius: 10px;"/>
+<div align="center">
+  <img src="https://github.com/Alejandro2005DAM/Galactic-Rebelion/blob/main/Portada.png?raw=true" alt="Galactic Rebellion Preview" width="350" style="border-radius: 30px;"/>
+</div>
 
 ---
 
 ### 🌤️ Climate Website
 > Web de clima que muestra datos de temperatura en tiempo real para todas las ciudades del mundo.
 
-<img src="https://github.com/Alejandro2005DAM/Climate_Website/blob/6f31f435866163a7796e690d4f2aefe591610ed0/images/climaportada.jpg" alt="Climate Website Preview" width="600" style="border-radius: 10px;"/>
+<div align="center">
+  <img src="https://github.com/Alejandro2005DAM/Climate_Website/blob/6f31f435866163a7796e690d4f2aefe591610ed0/images/climaportada.jpg?raw=true" alt="Climate Website Preview" width="350" style="border-radius: 30px;"/>
+</div>
 
 ---
 
@@ -90,7 +100,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Alejandro2005DAM&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Alejandro2005DAM&currStreakNum=800020&sideNums=ffffff&sideLabels=ff69b4&dates=ffffff&background=0d1117&stroke=800020&ring=ff69b4&fire=800020)](https://git.io/streak-stats)
 
 </div>
 
@@ -126,6 +136,7 @@
     <img src="https://img.shields.io/badge/Hecho%20con-❤️-800020?style=flat-square" />
   </p>
   <img src="https://komarev.com/ghpvc/?username=Alejandro2005DAM&label=VISITANTES&color=800020&style=flat-square" alt="Contador" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:800020,100:ff69b4&height=180&section=footer&text=Gracias%20por%20tu%20visita&fontSize=50&fontColor=FF0000&animation=twinkling&fontAlignY=60&stroke=FF0000&strokeWidth=1" width="100%"/>
 <!-- Footer -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:0a2a4a,100:00d9ff&height=220&section=header&text=Alejandro%20Pal%C3%A1%20Vera&fontSize=52&fontColor=00d9ff&animation=twinkling&fontAlignY=40&desc=Backend%20Developer%20%C2%B7%20Fintech%20Enthusiast%20%C2%B7%20DAM%20Junior&descAlignY=58&descSize=18&descColor=ffffff&stroke=00d9ff&strokeWidth=2" width="100%"/> -->
 
