@@ -68,6 +68,7 @@
 - 📊 **Análisis y Reporte**: Redacción de informes detallados de seguimiento sobre el **rendimiento y SEO** de las páginas de servicio.
 
 </div>
+<br/>
 ## 🛠️ Tecnologías con las que he trabajado
 
 <h2 align="center">Frontend</h2>
